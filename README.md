@@ -5,7 +5,7 @@
 - 원티드 프론트엔드 챌린지 - React Practice Guide
 - 2024.03
 
-## 사전과제
+## 사전 과제
 
-- [https://github.com/PollyGotACracker/wanted-react-tech-assignment](https://github.com/PollyGotACracker/wanted-react-tech-assignment)
-- [https://pollygotacracker.github.io/wanted-react-tech-assignment/](https://pollygotacracker.github.io/wanted-react-tech-assignment/)
+- https://github.com/PollyGotACracker/wanted-react-tech-assignment
+- https://pollygotacracker.github.io/wanted-react-tech-assignment/
